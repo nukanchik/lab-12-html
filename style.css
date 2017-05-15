@@ -1,0 +1,19 @@
+p{
+	color: #3171F4;
+	background-color: #7D7D7D;
+}
+h1{
+	color: #5FFA82;
+}
+body{
+	font-family: sans-serif;
+	font-size: 12px;
+	text-decoration: all;
+
+}
+h2{
+	text-decoration: underline;
+}
+h1{
+	text-transform: uppercase;
+}
