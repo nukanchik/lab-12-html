@@ -16,4 +16,8 @@ h2{
 }
 h1{
 	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border: 5px dashed red;
 }
+
