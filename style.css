@@ -1,7 +1,4 @@
-p{
-	color: #3171F4;
-	background-color: #7D7D7D;
-}
+
 h1{
 	color: #5FFA82;
 }
@@ -14,6 +11,10 @@ body{
 h2{
 	text-decoration: underline;
 }
+
+p, h2{
+	color: #20912A;
+}
 h1{
 	text-transform: uppercase;
 	margin: 20px;
@@ -21,3 +22,12 @@ h1{
 	border: 5px dashed red;
 }
 
+#intro{
+border: 1px solid black;
+
+}
+
+.spotlight{
+	background-color: #F4E931;
+
+}
